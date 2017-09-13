@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+
+<terminals> 
+  <terminal id="1"> 
+    <revision>0</revision>  
+    <deveui>4a7702bd000002</deveui>  
+    <stolen>false</stolen> 
+  </terminal> 
+</terminals>

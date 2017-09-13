@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Fri Mar 17 12:54:43 CST 2017
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=LoraIOT_fat.jar
+manifest.mergeall=true
+manifest.mainclass=com.loraiot.iot.service.MMCAgent
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
